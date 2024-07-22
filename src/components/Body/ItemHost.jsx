@@ -1,3 +1,4 @@
+import Avatar from '../../assets/img/avatar.jpg'
 const ItemHost = () => {
   const randomHost = ["Gabriel", "AJ", "Andrei", "George", "Rey", "Miguel", "Alexa"];
   const selectRandomHost = () => {
@@ -10,7 +11,7 @@ const ItemHost = () => {
       <div className="item-host-container">
         <div className="item-first-column">
           <img
-            src="/images/avatar.jpg"
+            src={Avatar}
             alt="avatar"
             className="item-host-avatar"
           />

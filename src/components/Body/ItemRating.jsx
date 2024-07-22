@@ -1,4 +1,7 @@
 import '../../css/ItemView.css';
+import LeftWing from '../../assets/img/GuestFavoriteLeftWing.png'
+import RightWing from '../../assets/img/GuestFavoriteRightWing.png'
+
 const ItemRating = ({ratings}) => {
   const generateRandomNumber = () => {
     const min = 200;
@@ -20,12 +23,12 @@ const randomRatings = generateRandomNumber();
       <div className="items-ratings">
         <div className="items-ratings-section">
           <div className="image-section">
-            <img src={`${ImgPath}/GuestFavoriteLeftWing.png`} alt="Image 1" />
+            <img src={LeftWing} alt="Image" />
             <div className="item-guest-favorite-text">
               <p>Guest</p>
               <p>Favorite</p>
             </div>
-            <img src={`${ImgPath}/GuestFavoriteRightWing.png`} alt="Image 1" />
+            <img src={RightWing} alt="Image" />
           </div>
           <div className="item-spacer"></div>
           <div className="item-guest-text-description">
