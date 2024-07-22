@@ -1,0 +1,282 @@
+[
+  {
+      "location": "Wake up in the Musee d'Orsay",
+      "description": "Hosted by Mathieu Lehanneur",
+      "description2": null,
+      "amount": "₱0 per guest",
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "07/05/24",
+          "toDateAvailability": "07/05/24",
+          "preferredLocation" : "Europe",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-1",
+          "description": "Lakefront 1"
+        },
+        {
+          "src": "icon-item-1b",
+          "description": "Lakefront 1b"
+        },
+        {
+          "src": "icon-item-1c",
+          "description": "Lakefront 1c"
+        },
+        {
+          "src": "icon-item-1d",
+          "description": "Lakefront 1d"
+        },
+        {
+          "src": "icon-item-1e",
+          "description": "Lakefront 1e"
+        }
+      ]
+    },
+    {
+      "location": "Make core memories with Inside Out 2",
+      "description": "Hosted by Joy",
+      "description2": "Coming June",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "06/05/24",
+          "toDateAvailability": "06/05/24",
+          "preferredLocation" : "Japan",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-2",
+          "description": "Lakefront 1"
+        }
+      ]
+    },
+    {
+      "location": "Stay in Prince's Purple Rain house",
+      "description": "Hosted by Wendy and Lisa",
+      "description2": "Coming August",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "08/05/24",
+          "toDateAvailability": "08/05/24",
+          "preferredLocation" : "Europe",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-3",
+          "description": "Lakefront 1"
+        }
+      ]
+    },
+    {
+      "location": "Go VIP with Kevin Hart",
+      "description": "Hosted by Kevin Hart",
+      "description2": "Coming August",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "08/05/24",
+          "toDateAvailability": "08/05/24",
+          "preferredLocation" : "United States",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-4",
+          "description": "Lakefront 1"
+        }
+      ]
+    },
+    {
+      "location": "Join a living room session with Doja",
+      "description": "Hosted by Doja Cat",
+      "description2": "Coming October",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "10/05/24",
+          "toDateAvailability": "10/05/24",
+          "preferredLocation" : "Europe",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-5",
+          "description": "Lakefront 1"
+        }
+      ]
+    },
+    {
+      "location": "Design your Incredibles Supersuit",
+      "description": "Hosted by Edna Mode",
+      "description2": "Sold out",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "12/05/24",
+          "toDateAvailability": "12/05/24",
+          "preferredLocation" : "Europe",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-6",
+          "description": "Lakefront 1"
+        },
+        {
+          "src": "icon-item-6b",
+          "description": "Lakefront 1b"
+        },
+        {
+          "src": "icon-item-6c",
+          "description": "Lakefront 1c"
+        },
+        {
+          "src": "icon-item-6d",
+          "description": "Lakefront 1d"
+        },
+        {
+          "src": "icon-item-6e",
+          "description": "Lakefront 1e"
+        }
+      ]
+    },
+    {
+      "location": "Crash at the X-Mansion",
+      "description": "Hosted by Jubilee",
+      "description2": "Sold out",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "12/05/24",
+          "toDateAvailability": "12/05/24",
+          "preferredLocation" : "United States",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-7",
+          "description": "Lakefront 1"
+        },
+        {
+          "src": "icon-item-7b",
+          "description": "Lakefront 1b"
+        },
+        {
+          "src": "icon-item-7c",
+          "description": "Lakefront 1c"
+        },
+        {
+          "src": "icon-item-7d",
+          "description": "Lakefront 1d"
+        },
+        {
+          "src": "icon-item-7e",
+          "description": "Lakefront 1e"
+        }
+      ]
+    },
+    {
+      "location": "Live like Bollywood star Janhvi Kapoor",
+      "description": "Hosted by Janhvi Kapoor",
+      "description2": "Sold out",
+      "amount": null,
+      "ratings": null,
+      "priceAndAvailability" : 
+        {
+          "totalPriceWithTax" : 0.00,
+          "totalPriceWithoutTax" : 0.00,
+          "fromDateAvailability": "12/05/24",
+          "toDateAvailability": "12/05/24",
+          "preferredLocation" : "Australia",
+          "preferredNoOfGuest" : 1,
+          "NoOfPetsAllowed":0,
+          "typeOfPlace": null
+        }
+      ,
+      "features" : {},
+      "roomDetails": {},
+      "thumbnails": [
+        {
+          "src": "icon-item-8",
+          "description": "Lakefront 1"
+        },
+        {
+          "src": "icon-item-8b",
+          "description": "Lakefront 1b"
+        },
+        {
+          "src": "icon-item-8c",
+          "description": "Lakefront 1c"
+        },
+        {
+          "src": "icon-item-8d",
+          "description": "Lakefront 1d"
+        },
+        {
+          "src": "icon-item-8e",
+          "description": "Lakefront 1e"
+        }
+      ]
+    }
+]

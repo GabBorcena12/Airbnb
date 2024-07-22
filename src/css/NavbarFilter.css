@@ -1,0 +1,84 @@
+.navbar-filter-container {
+  position: fixed;
+  width: 100%;
+  top: 5rem; /* Adjust based on the height of NavbarMain */
+  left: 0;
+  height: 6rem;
+  background-color: #ffff;
+  z-index: 998;
+  box-sizing: border-box;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
+}
+
+.navbar-filter {
+  border: 1px solid #cacaca;
+  border-radius: 30px;
+  padding: 1rem;
+  /*width: 40rem;  Adjust the width as necessary */
+  height: 2rem; /* Adjust the height as necessary */
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 1px 6px 3px 0px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-filter > div:nth-child(2),
+.navbar-filter > div:nth-child(3),
+.navbar-filter > div:nth-child(4) {
+  border-left: solid rgb(150, 150, 150);
+  border-width: 1px;
+}
+
+.navbar-filter > div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 0.5rem;
+}
+
+.navbar-filter .title {
+  color: rgb(0, 0, 0);
+  font-size: small;
+  font-weight: 500;
+}
+
+.navbar-filter .description {
+  color: #6a6a6a;
+  font-size: small;
+  border: none;
+  background-color: transparent;
+}
+
+.navbar-filter .description:focus {
+  outline: none;
+  background-color: transparent;
+}
+
+.navbar-filter-button {  
+  
+  background-color: #ff385c;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.05rem;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.navbar-filter-button:focus {
+  outline: none;
+}
+
+.navbar-filter-button:hover {
+  background-color: #f50430;
+}
+
+.navbar-filter-section {
+  padding: 0 10px;
+}
+.react-datepicker-wrapper {
+  margin:0px;
+}
+

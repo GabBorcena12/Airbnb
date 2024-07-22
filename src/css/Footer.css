@@ -1,0 +1,32 @@
+.footer-container {
+  background-color: #f8f9fa;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.875rem !important;
+  color: rgb(34, 34, 34) !important;
+  padding: 0.5rem 0rem;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 998;
+}
+
+.footer-left,
+.footer-right {
+  display: flex;
+  align-items: center;
+  padding: 0 1.5rem;
+}
+
+.footer-left > div,
+.footer-right > div {
+  margin: 0 10px;
+}
+
+.airbnb-text {
+  color:#ff385c
+}

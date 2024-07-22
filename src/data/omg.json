@@ -1,0 +1,426 @@
+[
+  {
+    "location": "Langkawi, Malaysia",
+    "description": "2,490 kilometers away",
+    "description2": "Jul 4-9",
+    "amount": "₱8,904 night",
+    "ratings": 4.92,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 8904.0,
+      "totalPriceWithoutTax": 8800.0,
+      "fromDateAvailability": "07/04/24",
+      "toDateAvailability": "07/09/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-1",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-1b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-1c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-1d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-1e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Sindun-myeon, Icheon-si, South Korea",
+    "description": "2,601 kilometers away",
+    "description2": "July 21-26",
+    "amount": "₱4,445 night",
+    "priceAndAvailability": {
+      "totalPriceWithTax": 4445.0,
+      "totalPriceWithoutTax": 4400.0,
+      "fromDateAvailability": "07/21/24",
+      "toDateAvailability": "07/26/24",
+      "preferredLocation" : "South Korea",
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "ratings": 4.83,
+    "thumbnails": [
+      {
+        "src": "omg-item-2",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-2b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-2c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-2d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-2e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Marton, New Zealand",
+    "description": "8,270 kilometers away",
+    "description2": "July 3-8",
+    "amount": "₱10,304 night",
+    "ratings": 4.93,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 10304.0,
+      "totalPriceWithoutTax": 10004.0,
+      "fromDateAvailability": "07/03/24",
+      "toDateAvailability": "07/08/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 1,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-3",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-3b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-3c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-3d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-3e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Kecamatan Kuta Selatan, Indonesia",
+    "description": "2,686 kilometers away",
+    "description2": "July 1-5",
+    "amount": "₱302,526 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 302526.0,
+      "totalPriceWithoutTax": 300000.0,
+      "fromDateAvailability": "07/01/24",
+      "toDateAvailability": "07/05/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 10,
+      "NoOfBed": 30,
+      "NoOfBathroom": 5
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-4",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-4b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-4c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-4d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-4e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Hua Hin District, Thailand",
+    "description": "2,293 kilometers away",
+    "description2": "July 3-8",
+    "amount": "₱7,075 night",
+    "ratings": 4.97,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 7075.0,
+      "totalPriceWithoutTax": 7000.0,
+      "fromDateAvailability": "07/03/24",
+      "toDateAvailability": "07/08/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 1,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-5",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-5b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-5c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-5d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-5e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Mueang Chiang Mai District, Thailand",
+    "description": "2,399 kilometers away",
+    "description2": "July 10- 15",
+    "amount": "₱2,628 night",
+    "ratings": 4.89,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 2628.0,
+      "totalPriceWithoutTax": 2500.0,
+      "fromDateAvailability": "07/10/24",
+      "toDateAvailability": "07/15/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-6",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-6b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-6c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-6d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-6e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Ubud, Indonesia",
+    "description": "2,651 kilometers away",
+    "description2": "Aug 20-25",
+    "amount": "₱53,486 night",
+    "ratings": 4.91,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 53486.0,
+      "totalPriceWithoutTax": 53000.0,
+      "fromDateAvailability": "08/20/24",
+      "toDateAvailability": "08/25/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-7",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-7b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-7c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-7d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-7e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Abiansemal, Indonesia",
+    "description": "2,655 kilometers away",
+    "description2": "Sep 2-7",
+    "amount": "₱29,213 night",
+    "ratings": 4.83,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 29213.0,
+      "totalPriceWithoutTax": 29000.0,
+      "fromDateAvailability": "09/02/24",
+      "toDateAvailability": "09/07/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 1,
+      "NoOfPetsAllowed":0,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "omg-item-8",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "omg-item-8b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "omg-item-8c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "omg-item-8d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "omg-item-8e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  }
+]

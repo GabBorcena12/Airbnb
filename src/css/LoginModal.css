@@ -1,0 +1,133 @@
+.login-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000000;
+  color: black;
+}
+
+.login-modal-container {
+  background: #fff;
+  border-radius: 8px;
+  max-width: 35vw;
+  width: 100%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+}
+
+.login-modal-header {
+  display: flex;
+  margin-bottom: 1rem;
+  border-bottom: solid rgb(232, 232, 232) 1px;
+}
+
+.login-modal-header > h2 {
+  align-self: center;
+  font-size: large;
+  font-weight: 500;
+}
+
+.login-close-button {
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  color: black;
+  outline: none;
+  align-self: flex-start;
+  padding-right: 30%;
+}
+
+.login-welcome-label {
+  font-size: x-large;
+  font-weight: 600;
+  text-align: left;
+  padding: 1rem 0;
+}
+.login-modal-body .login-input-group {
+  margin-bottom: 15px;
+}
+
+.login-close-button:focus {
+  outline: none;
+  color: gray;
+}
+.login-modal-body .login-input-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.login-modal-body .login-input-group input {
+  background-color: transparent;
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: black;
+}
+
+.login-modal-footer {
+  text-align: right;
+  padding-top: 1rem;
+}
+
+.login-terms-and-agreement {
+  max-width: 100%;
+  text-align: left;
+  font-size: small;
+  line-height: 0;
+  padding-top: 2rem;
+}
+
+.login-social-media {
+  padding: 0.5rem 0rem;
+}
+.login-social-media > button {
+  max-width: 100vw;
+  width: 100%;
+  background-color: transparent;
+  border: solid 1px black;
+  color: black;
+  display: inline-flex;
+}
+
+.login-social-media > button:hover {
+  outline: none;
+  border: solid 1px gray;
+  background-color: rgba(0, 0, 0, 0.137);
+}
+.login-social-media > button:focus {
+  outline: none;
+  border: solid 1px gray;
+  background-color: rgb(139, 139, 139);
+  color: white;
+}
+
+.login-button {
+  background: #ff385c;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  max-width: 100vw;
+  height: 100%;
+  width: 100%;
+}
+
+.login-button:hover {
+  background: #ff385c;
+}
+
+.login-social-media-button-logo {
+  width: 1.5rem;
+  padding-right: 30%;
+}

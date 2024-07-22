@@ -1,0 +1,56 @@
+ul.thumbs{
+    display: none;
+}
+
+.carousel .control-dots .dot {
+    margin: 0 3px !important;
+}
+
+div.item-picture > div > div:nth-child(2) {
+    display: none;
+}
+
+.item-src {
+    border-radius: 1rem;
+    height: 19rem;
+}
+
+.item-container {
+    width: 24vw;
+    top: 16rem;
+    left: 0;
+    padding: 1rem;
+    background-color: #fff;
+    color: #dadada;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    gap:5rem
+}
+
+.item-location {
+    display: flex;
+    color:#000000;
+    font-size: medium;
+    font-weight: 480;
+    text-align: left;
+}
+
+.item-description {
+    display: flex;
+    color:#826c6a;
+    font-size: medium;
+    text-align: left;
+}
+.item-description-2 {
+    display: flex;
+    color:#826c6a;
+    font-size: medium;
+    text-align: left;
+}
+.item-amount {
+    display: flex;
+    font-size: medium;
+    color:#000000;
+    font-weight: 480;
+    text-align: left;
+}

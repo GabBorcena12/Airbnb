@@ -1,0 +1,31 @@
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+.alert {    
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 100000;
+    color: black;
+    border-radius: 1rem;
+    max-width: 20vw;
+    max-height: 18vh;
+    padding: 1.5rem;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.alert-button {
+    background-color: #FF385c;
+    outline: none;
+}

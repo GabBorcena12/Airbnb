@@ -1,0 +1,850 @@
+[
+  {
+    "location": "Cavinti, Philippines",
+    "description": "Lake Caliraya",
+    "description2": "June 3-8",
+    "amount": "₱31,096 night",
+    "ratings": 4.87,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 31596.0,
+      "totalPriceWithoutTax": 31096.0,
+      "fromDateAvailability": "06/08/24",
+      "toDateAvailability": "06/08/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 10,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-1",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-1b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-1c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-1d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-1e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Lumban Philippines",
+    "description": "Lake Caliraya",
+    "description2": "June 1-6",
+    "amount": "₱28,529 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 28729.0,
+      "totalPriceWithoutTax": 28529.0,
+      "fromDateAvailability": "06/01/24",
+      "toDateAvailability": "06/06/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 10,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-2",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-2b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-2c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-2d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-2e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Jala,Jala Philippines",
+    "description": "Laguna de Bay",
+    "description2": "June 16-21",
+    "amount": "₱16,120 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 16620.0,
+      "totalPriceWithoutTax": 16120.0,
+      "fromDateAvailability": "06/16/24",
+      "toDateAvailability": "06/21/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 10,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-3",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-3b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-3c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-3d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-3e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Jala,Jala Philippines",
+    "description": "Laguna de Bay",
+    "description2": "June 3-8",
+    "amount": "₱9,632 night",
+    "ratings": 4.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 9632.0,
+      "totalPriceWithoutTax": 9532.0,
+      "fromDateAvailability": "06/03/24",
+      "toDateAvailability": "06/08/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 5,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-4",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-4b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-4c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-4d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-4e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "San Pablo City, Philippines",
+    "description": "Palakpakin Lake",
+    "description2": "July 07-10",
+    "amount": "₱12,881 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 12881.0,
+      "totalPriceWithoutTax": 12281.0,
+      "fromDateAvailability": "07/05/24",
+      "toDateAvailability": "07/10/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 6,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 3,
+      "NoOfBed": 6,
+      "NoOfBathroom": 3
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-5",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-5b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-5c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-5d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-5e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Kalayaan, Philippines",
+    "description": "Lake Caliraya",
+    "description2": "June 2-7",
+    "amount": "₱7,998 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 7998.0,
+      "totalPriceWithoutTax": 7698.0,
+      "fromDateAvailability": "06/02/24",
+      "toDateAvailability": "06/07/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 5,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-6",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-6b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-6c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-6d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-6e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Cuenca, Philippines",
+    "description": "Taal Lake",
+    "description2": "June 2-7",
+    "amount": "₱18,259 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 18559.0,
+      "totalPriceWithoutTax": 18259.0,
+      "fromDateAvailability": "06/02/24",
+      "toDateAvailability": "06/07/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 10,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-7",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-7b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-7c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-7d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-7e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Tanuan City, Philippines",
+    "description": "Taal Lake",
+    "description2": "July 1-6",
+    "amount": "₱23,239 night",
+    "ratings": 4.85,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 23239.0,
+      "totalPriceWithoutTax": 23039.0,
+      "fromDateAvailability": "07/01/24",
+      "toDateAvailability": "07/06/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 12,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 1,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-8",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-8b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-8c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-8d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-8e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Coron Palawan, Philippines",
+    "description": "Natuayan Lake",
+    "description2": "July 25-30",
+    "amount": "₱23,736 night",
+    "ratings": 4.86,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 23736.0,
+      "totalPriceWithoutTax": 23536.0,
+      "fromDateAvailability": "07/25/24",
+      "toDateAvailability": "07/30/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 12,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-9",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-9b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-9c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-9d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-9e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Binangonan, Philippines",
+    "description": "Laguna de Bay",
+    "description2": "June 1-6",
+    "amount": "₱18,715 night",
+    "ratings": 4.85,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 18915.0,
+      "totalPriceWithoutTax": 18715.0,
+      "fromDateAvailability": "06/01/24",
+      "toDateAvailability": "06/06/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 9,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-10",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-10b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-10c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-10d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-10e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Lumban, Philippines",
+    "description": "Lake Caliraya",
+    "description2": "June 1-7",
+    "amount": "₱39,941 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 39941.0,
+      "totalPriceWithoutTax": 39741.0,
+      "fromDateAvailability": "06/01/24",
+      "toDateAvailability": "06/07/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 22,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 5,
+      "NoOfBed": 20,
+      "NoOfBathroom": 5
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-11",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-11b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-11c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-11d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-11e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Mataas na Kahoy, Philippines",
+    "description": "Taal Lake",
+    "description2": "July 1-6",
+    "amount": "₱7,189 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 7189.0,
+      "totalPriceWithoutTax": 7100.0,
+      "fromDateAvailability": "07/01/24",
+      "toDateAvailability": "07/06/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 4,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-12",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-12b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-12c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-12d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-12e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Los Baños, Philippines",
+    "description": "Tadlak Lake",
+    "description2": "July 1-6",
+    "amount": "₱43,136 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 43136.0,
+      "totalPriceWithoutTax": 43000.0,
+      "fromDateAvailability": "07/01/24",
+      "toDateAvailability": "07/06/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 25,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-13",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-13b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-13c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-13d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-13e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Lumban Philippines",
+    "description": "Taal Lake",
+    "description2": "July 1-6",
+    "amount": "₱7,189 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 7189.0,
+      "totalPriceWithoutTax": 7100.0,
+      "fromDateAvailability": "07/01/24",
+      "toDateAvailability": "07/06/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 4,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-14",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-14b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-14c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-14d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-14e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Mataas na Kahoy, Philippines",
+    "description": "Taal Lake",
+    "description2": "July 2-7",
+    "amount": "₱3,766 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 3766.0,
+      "totalPriceWithoutTax": 3566.0,
+      "fromDateAvailability": "07/02/24",
+      "toDateAvailability": "07/07/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 2,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 2,
+      "NoOfBed": 2,
+      "NoOfBathroom": 2
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-15",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-15b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-15c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-12d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-15e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Calamba, Philippines",
+    "description": "Laguna de Bay",
+    "description2": "July 5-10",
+    "amount": "₱15,976 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 15976.0,
+      "totalPriceWithoutTax": 15776.0,
+      "fromDateAvailability": "07/05/24",
+      "toDateAvailability": "07/10/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 7,
+      "NoOfPetsAllowed":2,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 1,
+      "NoOfBed": 2,
+      "NoOfBathroom": 1
+    },
+    "thumbnails": [
+      {
+        "src": "lakefront-item-16",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "lakefront-item-16b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "lakefront-item-16c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "lakefront-item-16d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "lakefront-item-16e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  }
+]

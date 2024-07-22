@@ -1,0 +1,426 @@
+[
+  {
+    "location": "El Nido, Philippines",
+    "description": "435 kilometers away",
+    "description2": "Jun 25-30",
+    "amount": "₱52,635 night",
+    "ratings": 4.94,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 52835.0,
+      "totalPriceWithoutTax": 52635.0,
+      "fromDateAvailability": "06/25/24",
+      "toDateAvailability": "06/30/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 5,
+      "NoOfPetsAllowed":3,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 5,
+      "NoOfBed": 20,
+      "NoOfBathroom": 5
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-1",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-1b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "beachfront-item-1c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "beachfront-item-1d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "beachfront-item-1e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Lian, Philippines",
+    "description": "77 kilometers away",
+    "description2": "Jul 28- Aug 2",
+    "amount": "₱27,253 night",
+    "ratings": 4.92,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 27553.0,
+      "totalPriceWithoutTax": 27254.0,
+      "fromDateAvailability": "07/28/24",
+      "toDateAvailability": "08/02/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 12,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 3,
+      "NoOfBed": 6,
+      "NoOfBathroom": 3
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-2",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-2b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "beachfront-item-2c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "beachfront-item-2d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "beachfront-item-2e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Calatagan, Philippines",
+    "description": "94 kilometers away",
+    "description2": "Jun 9-14",
+    "amount": "₱27,388 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 27888.0,
+      "totalPriceWithoutTax": 27388.0,
+      "fromDateAvailability": "06/09/24",
+      "toDateAvailability": "06/14/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 15,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 4,
+      "NoOfBed": 10,
+      "NoOfBathroom": 4
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-3",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-3b",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-3c",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-3d",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-3e",
+        "description": "Lakefront 1"
+      }
+    ]
+  },
+  {
+    "location": "Lian, Philippines",
+    "description": "77 kilometers away",
+    "description2": "Jul 28- Aug 2",
+    "amount": "₱19,115 night",
+    "ratings": 5.0,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 19515.0,
+      "totalPriceWithoutTax": 19115.0,
+      "fromDateAvailability": "07/28/24",
+      "toDateAvailability": "08/02/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 10,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 3,
+      "NoOfBed": 6,
+      "NoOfBathroom": 3
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-4",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-4b",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-4c",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-4d",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-4e",
+        "description": "Lakefront 1"
+      }
+    ]
+  },
+  {
+    "location": "Mabini, Philippines",
+    "description": "Sepoc Beach",
+    "description2": "Jul 11-16",
+    "amount": "₱35,040 night",
+    "ratings": 4.92,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 35540.0,
+      "totalPriceWithoutTax": 35040.0,
+      "fromDateAvailability": "07/11/24",
+      "toDateAvailability": "07/16/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 12,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 5,
+      "NoOfBed": 20,
+      "NoOfBathroom": 4
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-5",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-5b",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-5c",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-5d",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-5e",
+        "description": "Lakefront 1"
+      }
+    ]
+  },
+  {
+    "location": "Infanta, Philippines",
+    "description": "58 kilometers away",
+    "description2": "Jun 24-29",
+    "amount": "₱13,694 night",
+    "ratings": 4.9,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 13894.0,
+      "totalPriceWithoutTax": 13694.0,
+      "fromDateAvailability": "06/24/24",
+      "toDateAvailability": "06/29/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 8,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 4,
+      "NoOfBed": 8,
+      "NoOfBathroom": 3
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-6",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-6b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "beachfront-item-6c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "beachfront-item-6d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "beachfront-item-6e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Nasugbu, Philippines",
+    "description": "74 kilometers away",
+    "description2": "Jun 23-28",
+    "amount": "₱19,952 night",
+    "ratings": 4.84,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 19952.0,
+      "totalPriceWithoutTax": 19552.0,
+      "fromDateAvailability": "06/23/24",
+      "toDateAvailability": "06/28/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 10,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 5,
+      "NoOfBed": 11,
+      "NoOfBathroom": 4
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-7",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-7b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "beachfront-item-7c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "beachfront-item-7d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "beachfront-item-7e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  },
+  {
+    "location": "Nasugbu, Philippines",
+    "description": "73 kilometers away",
+    "description2": "Jul 7-12",
+    "amount": "₱17,562 night",
+    "ratings": 4.82,
+    "priceAndAvailability": {
+      "totalPriceWithTax": 17562.0,
+      "totalPriceWithoutTax": 17000.0,
+      "fromDateAvailability": "07/05/24",
+      "toDateAvailability": "07/10/24",
+      "preferredLocation" : null,
+      "preferredNoOfGuest" : 12,
+      "NoOfPetsAllowed":5,
+      "typeOfPlace": "Entire home"
+    },
+    "features": {
+      "withWifi": true,
+      "withAircon": true,
+      "withHeater": false,
+      "withKitchen": true,
+      "withDryer": true,
+      "withWasher": true,
+      "withTV": true
+    },
+    "roomDetails": {
+      "NoOfBedroom": 5,
+      "NoOfBed": 10,
+      "NoOfBathroom": 3
+    },
+    "thumbnails": [
+      {
+        "src": "beachfront-item-8",
+        "description": "Lakefront 1"
+      },
+      {
+        "src": "beachfront-item-8b",
+        "description": "Lakefront 1b"
+      },
+      {
+        "src": "beachfront-item-8c",
+        "description": "Lakefront 1c"
+      },
+      {
+        "src": "beachfront-item-8d",
+        "description": "Lakefront 1d"
+      },
+      {
+        "src": "beachfront-item-8e",
+        "description": "Lakefront 1e"
+      }
+    ]
+  }
+]
