@@ -1,12 +1,13 @@
 import "../../css/NavbarMain.css";
-import Logo from "../../assets/img/logo-with-description.png";
-import React, { useState, useEffect,useRef  } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { BrowserRouter as Router, Route, Routes, Link, Outlet } from 'react-router-dom';
+import { logoutUser } from "../../reducer/action.jsx";
 import NavbarFilterSection from "./NavbarFilterSection";
 import CartModal from "../Modal/CartModal";
-import { useDispatch, useSelector } from "react-redux";
-import { logoutUser } from "../../reducer/action.jsx";
 import PopupAlert from "../Modal/PopupAlerlt.jsx";
-import WishlistModal from "../Modal/WishlistModal";
+import WishlistModal from "../Modal/WishlistModal.jsx";
+import Logo from "../../assets/img/logo-with-description.png";
 
 const NavbarMain = ({
   location,
@@ -22,6 +23,7 @@ const NavbarMain = ({
   maxAmount,
   typeOfPlace,
   onFilter,
+  onOnlineExp
 }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [showCart, setShowCart] = useState(false);
@@ -29,6 +31,7 @@ const NavbarMain = ({
   const [showAccount, setShowAccount] = useState(false);
   const [showPopUpAlert, setShowPopUpAlert] = useState(false);
   const [popUpMessage, setPopUpMessage] = useState(false);
+  const [isOnlineExp, setIsOnlineExp] = useState(false);
   const dispatch = useDispatch();
   const user = useSelector((state) => state.user.user); // Assuming you have a user object in your Redux state
 
@@ -42,12 +45,15 @@ const NavbarMain = ({
     navigateToLoginPage(); // Navigate to login page
     setShowAccount(false);
   };
-  
+
   const handleWishList = () => {
     setShowWishlist(!showWishlist);
     setShowAccount(false);
   };
 
+  useEffect(() => {
+    onOnlineExp(isOnlineExp);
+  }, [isOnlineExp])
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 0) {
@@ -65,7 +71,7 @@ const NavbarMain = ({
     };
   }, []);
 
-  //listener to close account dropdown 
+  //listener to close account dropdown
   const dropdownRef = useRef(null);
   useEffect(() => {
     const handleClickOutside = (event) => {
@@ -85,7 +91,7 @@ const NavbarMain = ({
     };
   }, [showAccount]);
   return (
-    <>
+    <Router>
       {showPopUpAlert && popUpMessage && (
         <PopupAlert popUpMessage={popUpMessage} showAlert={setShowPopUpAlert} />
       )}
@@ -113,7 +119,7 @@ const NavbarMain = ({
             }}
           />
         </div>
-        {isScrolled && (
+        {!isOnlineExp && isScrolled && (
           <div style={{ paddingLeft: "9rem" }}>
             <NavbarFilterSection
               location={location}
@@ -124,10 +130,11 @@ const NavbarMain = ({
             />
           </div>
         )}
-        <div style={{ display: isScrolled ? "none" : "block" }}>
-          <ul>
+        <div style={{ display: !isOnlineExp && isScrolled ? "none" : "block" }}>
+          <ul className="navbar-main-ul">
             <li>
-              <button
+              <Link
+                to="Airbnb/"
                 className="navbar-main-button"
                 onClick={() => {
                   onSelectItem(null);
@@ -141,13 +148,15 @@ const NavbarMain = ({
                   maxAmount(null);
                   typeOfPlace(null);
                   onFilter(false);
+                  setIsOnlineExp(false);
                 }}
               >
                 Stays
-              </button>
+              </Link>
             </li>
             <li>
-              <button
+              <Link
+                to="Airbnb/"
                 className="navbar-main-button"
                 onClick={() => {
                   onSelectItem(null);
@@ -161,20 +170,20 @@ const NavbarMain = ({
                   maxAmount(null);
                   typeOfPlace(null);
                   onFilter(false);
+                  setIsOnlineExp(false);
                 }}
               >
                 Experiences
-              </button>
+              </Link>
             </li>
             <li>
-              <button
+              <Link
+                to="Airbnb/online-experience"
                 className="navbar-main-button"
-                onClick={() => {
-                  showPopupAlert("This feature is not yet supported.");
-                }}
+                onClick={() => {setIsOnlineExp(true)}}
               >
-                Online Experiences
-              </button>
+                Online Experience
+              </Link>
             </li>
           </ul>
         </div>
@@ -199,10 +208,13 @@ const NavbarMain = ({
                     setShowAccount(!showAccount);
                   }}
                 >
-                  Welcome,<p style={{ color: "#ff385c", margin: '0.3rem' }}>{user.username}</p>
+                  Welcome,
+                  <p style={{ color: "#ff385c", margin: "0.3rem" }}>
+                    {user.username}
+                  </p>
                 </li>
                 {showAccount && (
-                  <div  ref={dropdownRef} className="dropdown-menu-container">
+                  <div ref={dropdownRef} className="dropdown-menu-container">
                     <ul className="dropdown-menu">
                       <li
                         className="dropdown-menu-li"
@@ -249,9 +261,13 @@ const NavbarMain = ({
           </ul>
         </div>
       </div>
+      <Routes>
+        <Route path="Airbnb/online-experience" element={<Outlet />}/>
+        <Route path="Airbnb/" element={<Outlet />}/>
+      </Routes>
       {user && showCart && <CartModal showCartModal={setShowCart} />}
       {user && showWishlist && <WishlistModal showWishlist={setShowWishlist} />}
-    </>
+    </Router>
   );
 };
 

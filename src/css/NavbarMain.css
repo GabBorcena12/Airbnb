@@ -38,11 +38,6 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
-  display: flex;
-}
-
-.navbar-main-container li {
-  display: inline;
 }
 
 .navbar-main-container p {
@@ -50,7 +45,9 @@
   margin: 0 10px;
 }
 
-
+.navbar-main-ul {
+  display: inline-flex;
+}
 
 .navbar-main-button {
   background-color: transparent;
@@ -58,10 +55,12 @@
   color: #6a6a6a;
   border: none;
   outline: none;
+  padding: 0 2rem;
 }
 
 .navbar-main-button:hover {
-  background-color: rgb(237, 235, 235);
+  background-color: transparent;
+  color: black;
 }
 
 .navbar-main-button:focus {
@@ -107,5 +106,6 @@
 }
 
 .navbar-menu-li {
-    margin: 0 1rem;
+  display: inline;
+  margin: 0 1rem;
 }

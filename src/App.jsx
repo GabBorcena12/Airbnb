@@ -18,6 +18,7 @@ import OMGData from "../src/data/omg.json";
 import BeachFrontData from "../src/data/beachfront.json";
 import AmazingPoolData from "../src/data/amazingpool.json";
 import LoadingScreen from "./components/Modal/LoadingScreen";
+import OnlineExperience from "./components/Others/OnlineExperience";
 
 const App = () => {
   const [mergeData, setMergeData] = useState([]);
@@ -37,7 +38,8 @@ const App = () => {
   const [showLoginPage, setShowLoginPage] = useState(false);
   const isAuthenticated = useSelector((state) => state.user.isAuthenticated); 
   const [isLoading, setIsLoading] = useState(true);
-  const [onFilter, setOnFilter] = useState(false)
+  const [onFilter, setOnFilter] = useState(false);
+  const [isOnlineExp, setIsOnlineExp] = useState(false);
 
   useEffect(() => {    
     if (!isAuthenticated)
@@ -120,9 +122,10 @@ const App = () => {
         onSelectItem={setSelectedItem} // Pass setSelectedItem as onSelectItem
         showLoginPage={setShowLoginPage}
         onFilter={setOnFilter}
+        onOnlineExp={setIsOnlineExp}
       />
 
-      {!selectedItem && !isScrolled && (
+      {!isOnlineExp && !selectedItem && !isScrolled && (
         <NavbarFilter
           location={setFilterLocation}
           checkInDate={setFilterCheckInDate}
@@ -132,7 +135,7 @@ const App = () => {
           selectedItem={setSelectedItem}
         />
       )}
-      {!selectedItem && (
+      {!isOnlineExp && !selectedItem && (
         <NavbarMenu
           categorySelected={setSelectedCategory}
           displayAmountWithTax={setDisplayAmountWithTax}
@@ -143,9 +146,9 @@ const App = () => {
           setOnFilter={setOnFilter}
         />
       )}
-
-      {selectedItem && <ItemView selectedItem={selectedItem} />}
-      {!selectedItem && (
+      {isOnlineExp && <OnlineExperience />}
+      {!isOnlineExp && selectedItem && <ItemView selectedItem={selectedItem} />}
+      {!isOnlineExp && !selectedItem && (
         <ItemList
           data={data}
           displayAmountWithTax={displayAmountWithTax}
